@@ -1,0 +1,44 @@
+{
+  "section":[
+    {
+      "name":"认识 Python",
+      "slug":"know-python"
+      "step":[
+        {
+          "name":"什么是 Python",
+          "slug":"what-is-python"
+        }
+      ]
+    },
+    {
+      "name":"编写第一份 Python 程序",
+      "slug":"write-python"
+      "step":[
+        {
+          "name":"什么是 Python",
+          "slug":"what-is-python"
+        }
+      ]
+    },
+    {
+      "name":"执行 Python 程序",
+      "slug":"know-python"
+      "step":[
+        {
+          "name":"什么是 Python",
+          "slug":"what-is-python"
+        }
+      ]
+    },
+    {
+      "name":"Python 与您",
+      "slug":"know-python"
+      "step":[
+        {
+          "name":"什么是 Python",
+          "slug":"what-is-python"
+        }
+      ]
+    }
+  ]
+}
