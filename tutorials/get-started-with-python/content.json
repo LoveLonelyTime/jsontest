@@ -49,7 +49,7 @@
 		},
 		{
 			"name": "执行 Python 程序",
-			"slug": "know-python",
+			"slug": "execute-python",
 			"step": [{
 				"name": "什么是 Python",
 				"slug": "what-is-python"
@@ -57,7 +57,7 @@
 		},
 		{
 			"name": "Python 与您",
-			"slug": "know-python",
+			"slug": "python-with-you",
 			"step": [{
 				"name": "什么是 Python",
 				"slug": "what-is-python"
